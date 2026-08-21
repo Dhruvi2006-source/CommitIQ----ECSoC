@@ -87,7 +87,7 @@ Incomplete or fragile:
 
 Exists:
 
-- GitHub URL ingestion, shallow clone, commit walk, metric extraction, health scoring, dependency/co-change graph storage, bus-factor table, hot spot map, timeline, graph explorer, commit detail, LLM narratives, cost meter, dark/light theme toggle, floating 'Back to Top' scroll button, and a Chromium landing-to-dashboard e2e.
+- GitHub URL ingestion, shallow clone, commit walk, metric extraction, health scoring, dependency/co-change graph storage, bus-factor table, hot spot map, timeline, graph explorer, commit detail, LLM narratives, cost meter, dark/light theme toggle, floating 'Back to Top' scroll button, GitLab Webhook receiver (`POST /api/webhooks/gitlab`) for parsing pipeline deployment events and calculating true DORA Deployment Frequency metrics (#386), and a Chromium landing-to-dashboard e2e.
 
 Half-done:
 
